@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku", "Sudoku\Sudoku\Sudoku.csproj", "{D66DE3B3-7D03-4C98-9276-590CEAFF66C3}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "SudokuContent", "Sudoku\SudokuContent\SudokuContent.contentproj", "{EF5739FC-8189-4147-8FFD-7FE967163936}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D66DE3B3-7D03-4C98-9276-590CEAFF66C3}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{D66DE3B3-7D03-4C98-9276-590CEAFF66C3}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{D66DE3B3-7D03-4C98-9276-590CEAFF66C3}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{D66DE3B3-7D03-4C98-9276-590CEAFF66C3}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{D66DE3B3-7D03-4C98-9276-590CEAFF66C3}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{D66DE3B3-7D03-4C98-9276-590CEAFF66C3}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{EF5739FC-8189-4147-8FFD-7FE967163936}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{EF5739FC-8189-4147-8FFD-7FE967163936}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Field>
+    <position>1</position>
+    <preset>true</preset>
+    <num>8</num>
+  </Field>
+  <Field>
+    <position>3</position>
+    <preset>false</preset>
+    <num>2</num>
+  </Field>
+</XnaContent>
